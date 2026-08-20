@@ -1,4 +1,4 @@
-Silent hill readme · MD
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=32&duration=4000&pause=1500&color=8B0000&background=00000000&center=true&vCenter=true&width=700&lines=In+my+restless+dreams...;I+see+that+repository.;Sebasti%C3%A1n+Cruz;Systems+Engineer" alt="Typing SVG" />
 </div>
