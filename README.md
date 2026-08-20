@@ -98,8 +98,6 @@ BANK 2   [  ACTIVE  ]   [  ACTIVE  ]   [  ACTIVE  ]
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.heroku/?user=SCruzBDev&theme=chartreuse-dark&hide_border=true&background=00000000&ring=00FFC8&fire=00FFC8&currStreakLabel=00FFC8" width="60%"/>
-
 </div>
 
 ---
