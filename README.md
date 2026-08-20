@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90ee90,25:98fb98,50:90ee90,75:8fbc8f,100:90ee90&height=170&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
 <code>sebastian-cruz v2026.08 · systems-engineer · backend/cloud/security · build: stable</code>
