@@ -1,35 +1,33 @@
+Silent hill readme · MD
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=32&duration=4000&pause=1500&color=8B0000&background=00000000&center=true&vCenter=true&width=700&lines=In+my+restless+dreams...;I+see+that+repository.;Sebasti%C3%A1n+Cruz;Systems+Engineer" alt="Typing SVG" />
-
 </div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:4a0404,50:8b0000,75:c41e1e,100:ff4500&height=180&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
 </p>
-
 <h3 align="center">Sebastián Cruz</h3>
 <p align="center"><i>Systems Engineer &nbsp;|&nbsp; Backend • Cloud • Cybersecurity</i></p>
 
+
 <pre align="center">
-                                              ⠀⠀⣄
-⠀⠀⠀⠀⠀⠀⠀                                      ⠀⣼⣿⣧
-⠀⠀⠀⠀⠀                                      ⠀⠀⣼⣿⣿⣿⣧
-⠀⠀⠀                                      ⠀⠀⢀⣼⣿⣿⣿⣿⣿⣧⠀
-⠀⠀                                      ⠀⠀⠀⣛⣿⣿⣿⣿⣿⣿⣿⣷⡀
-⠀⠀                                       ⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀
-⠀                                        ⠀⠀⣰⣿⣿⣿⣿⣿⣿⡟⠙⠛⠿⠿⣿⡄
-⠀                                         ⠀⢠⣿⠋⠈⢻⣿⣿⣿⣿⡄⠀⠀⠀⠀⠈
-                                        ⠀ ⠀⢸⡟⠀⠀⢸⣿⣿⣿⣿⣿⡀
-                                          ⢀⣄⣿⡇⠀⠀⣸⣿⣿⣿⣿⣿⣧
-                                          ⠚⢻⣿⣧⡀⠀⣿⢿⣿⣿⣿⣿⣿⡆
-                                          ⠀⠈⠉⠉⠻⣿⣿⡗⣯⣿⢿⣿⣿⣿
-                                          ⠀⠀⠀⠀⢰⣿⡋⠺⣿⣿⣿⣯⡻⣿⣇
-                                          ⠀⠀⠀⠀⢸⣿⡟⠒⠄⠙⣿⣿⣿⣷⣝
-                                          ⠀⠀⠀⠀⣾⡟⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣦⡀
-                                          ⠀⠀⠀⣸⣿⠀⠀⠀⠀⠀⠀⠀⣶⣮⣙⢿⣿⣿⣷⣄
-                                          ⠀⠀⢰⣿⣿⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠓⠉⠻⢿⣿⣷⣦⡀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠬⠭⠿⠵⠄
+                                                              ⠀⠀⣄
+                ⠀⠀⠀⠀⠀⠀⠀                                      ⠀⣼⣿⣧
+                ⠀⠀⠀⠀⠀                                      ⠀⠀⣼⣿⣿⣿⣧
+                ⠀⠀⠀                                      ⠀⠀⢀⣼⣿⣿⣿⣿⣿⣧⠀
+                ⠀⠀                                      ⠀⠀⠀⣛⣿⣿⣿⣿⣿⣿⣿⣷⡀
+                ⠀⠀                                       ⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀
+                ⠀                                        ⠀⠀⣰⣿⣿⣿⣿⣿⣿⡟⠙⠛⠿⠿⣿⡄
+                ⠀                                         ⠀⢠⣿⠋⠈⢻⣿⣿⣿⣿⡄⠀⠀⠀⠀⠈
+                                                        ⠀ ⠀⢸⡟⠀⠀⢸⣿⣿⣿⣿⣿⡀
+                                                          ⢀⣄⣿⡇⠀⠀⣸⣿⣿⣿⣿⣿⣧
+                                                          ⠚⢻⣿⣧⡀⠀⣿⢿⣿⣿⣿⣿⣿⡆
+                                                          ⠀⠈⠉⠉⠻⣿⣿⡗⣯⣿⢿⣿⣿⣿
+                                                          ⠀⠀⠀⠀⢰⣿⡋⠺⣿⣿⣿⣯⡻⣿⣇
+                                                          ⠀⠀⠀⠀⢸⣿⡟⠒⠄⠙⣿⣿⣿⣷⣝
+                                                          ⠀⠀⠀⠀⣾⡟⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣦⡀
+                                                          ⠀⠀⠀⣸⣿⠀⠀⠀⠀⠀⠀⠀⣶⣮⣙⢿⣿⣿⣷⣄
+                                                          ⠀⠀⢰⣿⣿⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠓⠉⠻⢿⣿⣷⣦⡀
+                                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠬⠭⠿⠵⠄
 </pre>
 
 <p align="center">▓▒░ &nbsp; welcome to your personal fog &nbsp; ░▒▓</p>
