@@ -1,14 +1,17 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=9D4EDD&background=00000000&center=true&vCenter=true&width=700&lines=Backend;Ciberseguridad;Sebasti%C3%A1n+Cruz" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1200&color=9D4EDD&background=00000000&center=true&vCenter=true&width=700&lines=BACKEND;CIBERSEGURIDAD;SEBASTIAN+CRUZ" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:2e1a47,50:5a189a,75:7b2cbf,100:9d4edd&height=170&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+  <img src="https://cdn.pixabay.com/photo/2020/06/14/23/44/blue-5299768_1280.jpg" width="100%" style="max-height:170px;object-fit:cover;"/>
+</p>
+
+<p align="center">
+<code>sebastian-cruz v2026.08 · systems-engineer · backend/cloud/security · build: stable</code>
 </p>
 
 <h3 align="center">Sebastián Cruz</h3>
 <p align="center"><i>Systems Engineer &nbsp;|&nbsp; Backend • Cloud • Cybersecurity</i></p>
-
 
 <p align="center">▨▨▨▨▨ &nbsp; OPERATOR CLEARANCE: GRANTED &nbsp; ▨▨▨▨▨</p>
 
