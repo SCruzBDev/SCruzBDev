@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/09/10/19/58/ford-2736805_1280.png" width="260"/>
+  <img src="https://images.pexels.com/photos/18473638/pexels-photo-18473638.jpeg?auto=compress&cs=tinysrgb&w=800" width="320"/>
 </p>
 
 <h3 align="center">Sebastián Cruz</h3>
