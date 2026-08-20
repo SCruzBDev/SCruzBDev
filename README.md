@@ -78,7 +78,7 @@ Currently focused on Linux, networking, APIs, containers, cloud and offensive se
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SCruzBDev&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=c9c9c9" width="49%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SCruzBDev&theme=dracula&hide_border=true&background=00000000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000" width="49%"/>
 
 </div>
