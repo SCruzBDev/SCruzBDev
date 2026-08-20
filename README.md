@@ -19,7 +19,7 @@ Currently focused on Linux, networking, APIs, containers, cloud and offensive se
 <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,python,dotnet,postgres,mongodb,git,github" />
 </p>
 
-[![Coursera Certificate](https://img.shields.io/badge/Coursera-Especialización%20Certificada-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/ATLXV3J1DTA5)
+[![Coursera Certificate](https://img.shields.io/badge/Coursera-Especialización%20Certificada-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/bf8971dcebb90fd5f163b115b15a0ece)
 
 ### Currently Learning
 
