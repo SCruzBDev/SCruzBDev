@@ -11,6 +11,18 @@
 <h3 align="center">Sebastián Cruz</h3>
 <p align="center"><i>Systems Engineer &nbsp;|&nbsp; Backend • Cloud • Cybersecurity</i></p>
 
+<pre align="center">
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+        ░  .  .   .    .  .  .   .   .   ░
+        ░    ▄▄▄  ▄  ▄▄▄▄  ▄▄▄▄▄  ▄▄▄     ░
+        ░   █   █ █ █    █   █   █   █    ░
+        ░   █▄▄▄█ █ █    █   █   █▄▄▄█    ░
+        ░   █   █ █ █    █   █   █   █    ░
+        ░   ▀   ▀ ▀  ▀▀▀▀    ▀   ▀   ▀    ░
+        ░  .   .  .    .   .  . SIGNAL   ░
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+</pre>
+
 <p align="center">▓▒░ &nbsp; welcome to your personal fog &nbsp; ░▒▓</p>
 
 <p align="center">
@@ -20,7 +32,7 @@
 
 ---
 
-### 📻 Transmission
+### Transmission
 
 I'm a Systems Engineer interested in **backend development, cloud infrastructure and cybersecurity**.
 Currently focused on Linux, networking, APIs, containers, cloud and offensive security.
@@ -29,7 +41,7 @@ Currently focused on Linux, networking, APIs, containers, cloud and offensive se
 
 ---
 
-### 🕯️ Tech Stack
+### Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,python,dotnet,postgres,mongodb,git,github&theme=dark" />
@@ -37,7 +49,7 @@ Currently focused on Linux, networking, APIs, containers, cloud and offensive se
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 <p align="center">
 <a href="https://coursera.org/share/bf8971dcebb90fd5f163b115b15a0ece">
@@ -47,7 +59,7 @@ Currently focused on Linux, networking, APIs, containers, cloud and offensive se
 
 ---
 
-### 🩸 Currently Learning
+### Currently Learning
 
 <p align="center">
 <code>Cloud Security</code> • <code>Offensive Security</code> • <code>Network Security</code> • <code>System Design</code>
@@ -55,7 +67,7 @@ Currently focused on Linux, networking, APIs, containers, cloud and offensive se
 
 ---
 
-### 📊 Signal Log
+### Signal Log
 
 <div align="center">
 
