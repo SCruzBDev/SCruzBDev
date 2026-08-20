@@ -3,7 +3,11 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:2e1a47,50:5a189a,75:7b2cbf,100:9d4edd&height=170&section=header&text=%F0%9F%8D%BA%20%F0%9F%90%A7%20%F0%9F%8D%BA%20%F0%9F%90%A7%20%F0%9F%8D%BA&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:2e1a47,50:5a189a,75:7b2cbf,100:9d4edd&height=170&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2017/09/10/19/58/ford-2736805_1280.png" width="260"/>
 </p>
 
 <h3 align="center">Sebastián Cruz</h3>
