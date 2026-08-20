@@ -19,12 +19,7 @@ Currently focused on Linux, networking, APIs, containers, cloud and offensive se
 <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,python,dotnet,postgres,mongodb,git,github" />
 </p>
 
-### GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=SCruzBDev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCruzBDev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+[![Coursera Certificate](https://img.shields.io/badge/Coursera-Especialización%20Certificada-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/ATLXV3J1DTA5)
 
 ### Currently Learning
 
