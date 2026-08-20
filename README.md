@@ -1,17 +1,14 @@
 <div align="center">
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=9D4EDD&background=00000000&center=true&vCenter=true&width=700&lines=Backend;Ciberseguridad;Sebasti%C3%A1n+Cruz" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:2e1a47,50:5a189a,75:7b2cbf,100:9d4edd&height=170&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://images.pexels.com/photos/18473638/pexels-photo-18473638.jpeg?auto=compress&cs=tinysrgb&w=800" width="320"/>
-</p>
-
 <h3 align="center">Sebastián Cruz</h3>
 <p align="center"><i>Systems Engineer &nbsp;|&nbsp; Backend • Cloud • Cybersecurity</i></p>
+
 
 <p align="center">▨▨▨▨▨ &nbsp; OPERATOR CLEARANCE: GRANTED &nbsp; ▨▨▨▨▨</p>
 
