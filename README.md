@@ -3,8 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/06/14/23/44/blue-5299768_1280.jpg" width="100%" style="max-height:170px;object-fit:cover;"/>
-</p>
+
 
 <p align="center">
 <code>sebastian-cruz v2026.08 · systems-engineer · backend/cloud/security · build: stable</code>
