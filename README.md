@@ -89,17 +89,6 @@ BANK 2   [  ACTIVE  ]   [  ACTIVE  ]   [  ACTIVE  ]
 ```
 
 ---
-
-### `> SEQ`
-
-<div align="center">
-
-
-
-<br><br>
-
-</div>
-
 ---
 
 ```
