@@ -94,8 +94,7 @@ BANK 2   [  ACTIVE  ]   [  ACTIVE  ]   [  ACTIVE  ]
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/SCruzBDev?style=flat-square&label=FOLLOWERS&color=00FFC8&labelColor=001a12"/>
-<img src="https://komarev.com/ghpvc/?username=SCruzBDev&style=flat-square&label=PROFILE+VIEWS&color=00FFC8"/>
+
 
 <br><br>
 
